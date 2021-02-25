@@ -50,7 +50,7 @@
         <div id="lead-content">
             <h1>Brady Boettcher</h1>
             <h2>Computer Engineer</h2>
-            <a href="https://drive.google.com/file/d/1Pjr2O-YFNDCsQnkaAnCyrw6t0VtvYJP3/view?usp=sharing" class="btn-rounded-white">Download Resume</a>
+            <a href="https://drive.google.com/file/d/16dyb3zrljTnf0tClj6bx-w7uLreJiU1_/view?usp=sharing" class="btn-rounded-white">Download Resume</a>
         </div>
         <!-- End #lead-content -->
 
@@ -73,7 +73,7 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                       I graduated from the University of Wisconsin- Madison in December 2018 with a Bachelor's degree in Computer Engineering. I have experience creating audio synthesis and effect plugins, designing and programming for embedded systems, and various software projects mostly relating to audio and music. Currently, I'm employed on the Audio Software DSP team at Qualcomm in San Diego. 
+                       Graduated from the University of Wisconsin- Madison in December 2018 with a Bachelor's degree in Computer Engineering. Has experience creating audio synthesis and effect plugins, designing and programming for embedded systems, and various software projects mostly relating to audio and music. Currently employed at Moodelizer AB in Stockholm, Sweden, working on exciting new dynamic music playback systems. Will be attending McGill University in Montreal starting Fall 2021 to pursue a degree for Master's of Music Technology.
                     </p>
                 </div>
             </div>
@@ -84,7 +84,14 @@
     <div id="experience" class="background-alt">
         <h2 class="heading">Experience</h2>
         <div id="experience-timeline">
- 	    <div data-date="January 2019 - present">
+            <div data-date="February 2020 - present">
+                <h3>Moodelizer AB</h3>
+                <h4>Audio Developer</h4>
+                <p>
+                     Continued development on the proprietary interactive music and dynamic playback framework, expanded a creation tool for production of the dynamic music format using C++, and created multiple Android apps in Kotlin to interact with the dynamic music
+                </p>
+            </div>
+ 	        <div data-date="January 2019 - February 2020">
                 <h3>Qualcomm</h3>
                 <h4>Audio DSP Software Engineer</h4>
                 <p>
@@ -121,8 +128,13 @@
     <div id="education">
         <h2 class="heading">Education</h2>
         <div class="education-block">
+            <h3>McGill University</h3>
+            <span class="education-date">September 2021 - present</span>
+            <h4>Master of Arts in Music Technology</h4>
+        </div>
+        <div class="education-block">
             <h3>University of Wisconsin - Madison</h3>
-            <span class="education-date">Sept 2015 - December 2018</span>
+            <span class="education-date">September 2015 - December 2018</span>
             <h4>Bachelor of Science in Computer Engineering</h4>
             <ul>
                 <li>
@@ -143,15 +155,31 @@
             <div class="row">
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/harmonigon.png" />
+                        <img src="images/audioform.png" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Harmonigon</h3>
+                        <h3>Audioform</h3>
                         <p>
-                            An interactive harmonic table allowing the user to play on a piano-like interface rearranged for chord creation. It was made using the .NET framework in C#, using the Naudio framework 1.8 for synthesis.
+                            Rotating cylindrical spectrum visualizer built in Unity3D that reacts to whatever music is being played on the device (Windows only). Audioform builds a continuous 3D mesh of the music's spectrum, taking the viewer through a sonic reactive wormhole.
                         </p>
-                        <a href="https://github.com/bboettcher3/Harmonigon">View Project</a>
+                        <a href="https://github.com/bboettcher3/Audioform">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/harmonigon_v2.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Harmonigon v2</h3>
+                        <p>
+                            An interactive harmonic table allowing the user to play on a piano-like interface rearranged for chord creation. Includes automated harmonic path creation for playing chords or patterns of notes.
+                        </p>
+                        <a href="https://github.com/bboettcher3/Harmonigon_2">View Project</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -171,22 +199,6 @@
                             other is the listener, tuning in to the broadcaster’s music. It works in the background for the broadcaster, all they need to do is play music through Spotify as normal. The listener simply chooses which user around them they would like to listen to (within a half mile radius), and get to listen to the broadcaster’s current track at the same position as the broadcaster.
                         </p>
                         <a href="https://github.com/bboettcher3/Earsdrop">View Project</a>
-                    </div>
-                    <!-- End .project-info -->
-                </div>
-                <!-- End .project -->
-                
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="images/midiController.jpg" />
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>Custom Mixing MIDI Controller</h3>
-                        <p>
-                            A MIDI Controller made with a Teensy 3.2 board + A VST plugin enabling its use in Ableton Live. The VST was created with JUCE, using Maximilian for synthesis. The goal of the controller and its plugin is to allow scratching of audio clips through Ableton for live performance use. Instead of having to choose between mixing through a program like Serato or Tracktor or performing using a program like Ableton, you can now use the controller to trigger and manipulate audio clips while performing live.
-                        </p>
-                        <a href="https://github.com/bboettcher3/Midi_Controller">View Project</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -215,15 +227,15 @@
     <div id="skills">
         <h2 class="heading">Skills</h2>
         <ul>
-            <li>Android Development</li>
+            <li>Java</li>
+            <li>Kotlin</li>
+            <li>Python</li>
             <li>Signal Processing</li>
             <li>Embedded Systems</li>
             <li>JavaScript</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
+            <li>NodeJS</li>
             <li>AWS Elastic Beanstalk</li>
             <li>MongoDB</li>
-            <li>Java</li>
             <li>C</li>
             <li>C#</li>
             <li>C++</li>
@@ -239,8 +251,8 @@
     <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
-            <form method="POST" action="https://formspree.io/email@email.com">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
+            <form method="POST" action="https://formspree.io/bradyboettcher@gmail.com">
+                <input type="hidden" name="_subject" value="Portfolio Contact Request" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
                 <textarea name="message" placeholder="Your message" required></textarea>
                 <button type="submit">Send</button>
