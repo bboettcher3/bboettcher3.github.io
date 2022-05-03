@@ -28,16 +28,7 @@
                 <a href="#about">About</a>
             </li>
             <li>
-                <a href="#experience">Experience</a>
-            </li>
-            <li>
-                <a href="#education">Education</a>
-            </li>
-            <li>
                 <a href="#projects">Projects</a>
-            </li>
-            <li>
-                <a href="#skills">Skills</a>
             </li>
             <li>
                 <a href="#contact">Contact</a>
@@ -49,7 +40,7 @@
     <div id="lead">
         <div id="lead-content">
             <h1>Brady Boettcher</h1>
-            <h2>Computer Engineer</h2>
+            <h2>Digital Instrument and Synthesizer Designer</h2>
             <a href="https://drive.google.com/file/d/16dyb3zrljTnf0tClj6bx-w7uLreJiU1_/view?usp=sharing" class="btn-rounded-white">Download Resume</a>
         </div>
         <!-- End #lead-content -->
@@ -73,7 +64,7 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                       Graduated from the University of Wisconsin- Madison in December 2018 with a Bachelor's degree in Computer Engineering. Has experience creating audio synthesis and effect plugins, designing and programming for embedded systems, and various software projects mostly relating to audio and music. Currently employed at Moodelizer AB in Stockholm, Sweden, working on exciting new dynamic music playback systems. Will be attending McGill University in Montreal starting Fall 2021 to pursue a degree for Master's of Music Technology.
+                       I make audio synthesis and effect plugins, new digital instruments, and various software projects mostly relating to audio and music. Currently, I'm attending McGill University in Montreal pursuing a Master's degree in Music Technology at the Input Devices and Music Interaction Laboratory.
                     </p>
                 </div>
             </div>
@@ -81,78 +72,44 @@
     </div>
     <!-- End #about -->
 
-    <div id="experience" class="background-alt">
-        <h2 class="heading">Experience</h2>
-        <div id="experience-timeline">
-            <div data-date="February 2020 - present">
-                <h3>Moodelizer AB</h3>
-                <h4>Audio Developer</h4>
-                <p>
-                     Continued development on the proprietary interactive music and dynamic playback framework, expanded a creation tool for production of the dynamic music format using C++, and created multiple Android apps in Kotlin to interact with the dynamic music
-                </p>
-            </div>
- 	        <div data-date="January 2019 - February 2020">
-                <h3>Qualcomm</h3>
-                <h4>Audio DSP Software Engineer</h4>
-                <p>
-                     Working on audio DSP framework development in C and C++ to be used in Qualcomm's chipsets.
-                </p>
-            </div>
-            <div data-date="May 2018 – August 2018">
-                <h3>Qualcomm</h3>
-                <h4>Software Engineering Intern</h4>
-                <p>
-                    Developed features for a GPU packet visualizing tool allowing the graphics teams to debug their drivers with ease. All features were written utilizing modern C++ standards.
-                </p>
-            </div>
-
-            <div data-date="January 2018 – December 2018">
-                <h3>Thalchemy</h3>
-                <h4>Undergraduate Associate</h4>
-                <p>
-                    Wrote drivers for sensor modules to be connected to a custom wearable device. Developed Android apps allowing Bluetooth interfacing with the wearable device's sensors. The Android app also interfaced with a backend to retrieve users and settings.
-                </p>
-            </div>
-
-            <div data-date="May 2016 – December 2017">
-                <h3>Virtual Environments Laboratory</h3>
-                <h4>Undergraduate Associate</h4>
-                <p>
-                    Created virtual reality applications for demoing new technology. Developed the widely used Unity3D plugin <a href="https://unicave.discovery.wisc.edu/">Unicave</a> that is a free alternative allowing C.A.V.E systems to run Unity3D applications.
-                </p>
-            </div>
-        </div>
-    </div>
-    <!-- End #experience -->
-
-    <div id="education">
-        <h2 class="heading">Education</h2>
-        <div class="education-block">
-            <h3>McGill University</h3>
-            <span class="education-date">September 2021 - present</span>
-            <h4>Master of Arts in Music Technology</h4>
-        </div>
-        <div class="education-block">
-            <h3>University of Wisconsin - Madison</h3>
-            <span class="education-date">September 2015 - December 2018</span>
-            <h4>Bachelor of Science in Computer Engineering</h4>
-            <ul>
-                <li>
-                    3.7/4.0 GPA
-                </li>
-                <li>
-                    President of IEEE Student Chapter
-                </li>
-            </ul>
-        </div>
-        <!-- End .education-block -->
-    </div>
-    <!-- End #education -->
-
     <div id="projects" class="background-alt">
         <h2 class="heading">Projects</h2>
         <div class="container">
             <div class="row">
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/slapbox.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Slapbox</h3>
+                        <p>
+                            A standalone digital percussion instrument built using the <a href="https://bela.io">Bela</a> platform. It captures both excitation (strikes) and modulation (continuous pressure) gestures to allow exploration of new percussive interactions. The top, side and back panels all act as interaction surfaces.
+                        </p>
+                        <a href="http://www-new.idmil.org/project/slapbox/">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/mapper4live.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Mapper4Live</h3>
+                        <p>
+                            A software plugin made for the digital audio workstation software Ableton Live. Mapper4Live exposes Ableton’s synthesis and effect parameters on the distributed libmapper signal mapping network, providing new opportunities for interaction between software and hardware synths, audio effects, and controllers.
+
+                            This enables libmapper-compatible devices such as <a href="http://www-new.idmil.org/project/probatio/">Probatio</a> and the <a href="http://www-new.idmil.org/project/the-t-stick/">T-Stick</a> to control Ableton synthesis and effect parameters with their gestural signals.
+                        </p>
+                        <a href="http://www-new.idmil.org/project/mapper4live/">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
                 <div class="project shadow-large">
                     <div class="project-image">
                         <img src="images/audioform.PNG" />
