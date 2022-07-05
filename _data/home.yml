@@ -8,8 +8,11 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - title: music
+    url: music
+
 project_entries:
-  - title: Slapbox
+  - title: The Slapbox
     url: slapbox
     desc: A digital percussion instrument with embedded sound synthesis
 
