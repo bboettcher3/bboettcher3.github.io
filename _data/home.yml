@@ -15,25 +15,12 @@ project_entries:
 
   - title: Mapper4Live
     url: mapper4live
-    desc: Integrates distributed mapping into Ableton Live
+    desc: Create complex mappings between Ableton Live parameters and gestural controllers
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: gRainbow
+    url: grainbow
+    desc: A pitch-detecting granular synthesizer that always generates harmonic grains
     highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
