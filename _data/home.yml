@@ -1,15 +1,21 @@
 navbar_entries:
+  - title: home
+    url: /
+
   - title: about
-    url: about
+    url: /about
 
   - title: projects
-    url: projects
+    url: /projects
+
+  - title: publications
+    url: /publications
 
   - title: blog
-    url: blog
+    url: /blog
 
   - title: music
-    url: music
+    url: /music
 
 project_entries:
   - title: The Slapbox
