@@ -46,5 +46,5 @@ Undergraduate Intern, January 2018 - December 2018
 ## Skills
 
 - Programming languages: C, C#, C++, Python, Javascript, Java, Kotlin
-- Programs: Max/MSP, Unity3D, Fusion 360, Ableton Live
+- Programs: JUCE, Max/MSP, Unity3D, Fusion 360, Ableton Live
 - Hardware platforms: Arduino, Teensy, ESP32, STM32, Bela

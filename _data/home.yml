@@ -31,6 +31,11 @@ project_entries:
     desc: A pitch-detecting granular synthesizer that always generates harmonic grains
     highlight: WIP
 
+  - title: Mouse Modulator
+    url: mouse-modulator
+    desc: Use your mouse and trackpad to modulate synthesis and effect signals in real time
+    highlight: WIP
+
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co

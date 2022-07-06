@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<header>
+{% include horizontal_list.html collection=site.data.home.navbar_entries %}
+<div class="dashed"></div>
+  <h1>Music</h1>
+</header>
+
+{% include post_list.html posts=site.categories.music %}
