@@ -3,7 +3,7 @@ layout: post
 ---
 # About Me
 
-Here's a short summary of my experience and skills. If you just want to contact me, you can reach me at [bradyboettcher@gmail.com](mailto:bradyboettcher@gmail.com). You can view my full CV [here](/assets/Brady-Boettcher-Resume.pdf).
+Here's a short summary of my experience and skills. If you just want to contact me, you can reach me at [bradyboettcher@gmail.com](mailto:bradyboettcher@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/brady-boettcher-2166b090/). You can view my full CV [here](/assets/Brady-Boettcher-Resume.pdf).
 
 <img
   align="right"
