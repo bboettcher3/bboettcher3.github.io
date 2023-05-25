@@ -5,21 +5,24 @@ title: About Me
 
 Here's a short summary of my experience and skills. If you just want to contact me, you can reach me at [bradyboettcher@gmail.com](mailto:bradyboettcher@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/brady-boettcher-2166b090/). You can view my full CV [here](/assets/Brady-Boettcher-Resume.pdf).
 
+## Overview (in map form)
+
+<img
+  height="350"
+  padding="50px"
+  src="/images/myMap.png" />
+
 <img
   align="right"
   height="350"
   padding="50px"
   src="/images/meNew.jpeg" />
 
-## Overview
-
-I started with a BSc. of Computer Engineering from the University of Wisconsin-Madison, attending quite a few hackathons during my time there. I worked on audio/music projects whenever I could, and was lucky enough to get an internship and eventually a job offer from Qualcomm on their Audio DSP team in 2018. I stayed on that team for a bit over a year, but the lack of creativity from working in a large company like Qualcomm led me to pivot to a new opportunity in Stockholm in 2020, working for a startup that specializes in interactive dynamic music. I stayed in Stockholm for a bit over a year, but decided to continue my studies in a more targeted field. This led me to my current destination, which is pursuing an MA in Music Technology at McGill University. My thesis (due April 2023) primarily concerns supporting the creation and distribution of signal mappings between digital instruments and audio synthesis systems.
-
 ## Work Experience
 
-**Moodelizer AB, Stockholm, SE**
+**Moodelizer AB, Stockholm, Sweden and remote**
 
-Audio Developer, February 2020 – July 2021
+Audio Developer, February 2020 – July 2021, February 2023 – present
 - Developed the proprietary interactive music and dynamic playback framework
 - Expanded a creation tool for production of the dynamic music format using C++
 - Created multiple Android apps in Kotlin to interact with the dynamic music
