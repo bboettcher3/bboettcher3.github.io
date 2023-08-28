@@ -29,10 +29,11 @@ project_entries:
   - title: gRainbow
     url: grainbow
     desc: A pitch-detecting granular synthesizer that always generates harmonic grains
+    highlight: WIP
 
-  - title: Mouse Modulator
-    url: mouse-modulator
-    desc: Use your mouse and trackpad to modulate synthesis and effect signals in real time
+  - title: Standard Input M4L
+    url: standard-input
+    desc: A Max for Live modulator device using mice/trackpad signals
     highlight: WIP
 
 old_project_entries:
