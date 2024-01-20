@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-Here's a short summary of my experience and skills. If you just want to contact me, you can reach me at [bradyboettcher@gmail.com](mailto:bradyboettcher@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/brady-boettcher-2166b090/). You can view my full CV [here](/assets/Brady-Boettcher-Resume.pdf). If you want to quickly see and download some of my more developed projects, check out the [Strange Loops website](https://strangeloopsaudio.github.io/).
+I'm currently looking for work! Here's a short summary of my experience and skills. If you just want to contact me, you can reach me at [bradyboettcher@gmail.com](mailto:bradyboettcher@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/brady-boettcher-2166b090/). You can view my full CV [here](/assets/Brady-Boettcher-Resume.pdf). If you want to quickly see and download some of my more developed projects, check out the [Strange Loops website](https://strangeloopsaudio.github.io/).
 
 ## Overview (in map form)
 
@@ -22,7 +22,7 @@ Here's a short summary of my experience and skills. If you just want to contact 
 
 **Moodelizer AB, Stockholm, Sweden and remote**
 
-Audio Developer, February 2020 – July 2021, February 2023 – present
+Audio Developer, February 2020 – July 2021, February 2023 – January 2024
 - Developed the proprietary interactive music and dynamic playback framework
 - Expanded a creation tool for production of the dynamic music format using C++
 - Created multiple Android apps in Kotlin to interact with the dynamic music
