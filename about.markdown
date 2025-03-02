@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-I'm currently looking for work! Here's a short summary of my experience and skills. If you just want to contact me, you can reach me at [bradyboettcher@gmail.com](mailto:bradyboettcher@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/brady-boettcher-2166b090/). You can view my full CV [here](/assets/Brady-Boettcher-Resume.pdf). If you want to quickly see and download some of my more developed projects, check out the [Strange Loops website](https://strangeloopsaudio.github.io/).
+Here's a short summary of my experience and skills. If you just want to contact me, you can reach me at [bradyboettcher@gmail.com](mailto:bradyboettcher@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/brady-boettcher-2166b090/). You can view my full CV [here](/assets/Brady-Boettcher-Resume.pdf). If you want to quickly see and download some of my more developed projects, check out the [Strange Loops website](https://strangeloopsaudio.github.io/).
 
 ## Overview (in map form)
 
@@ -19,6 +19,12 @@ I'm currently looking for work! Here's a short summary of my experience and skil
   src="/images/meNew.jpeg" />
 
 ## Work Experience
+
+**Apple, San Diego, CA, USA**
+
+Core Audio Software Engineer, May 2024 – present
+- Developed new features and completed product bringup for the audio routing team
+- Expanded audio testing tools to support automation and QA efforts
 
 **Moodelizer AB, Stockholm, Sweden and remote**
 
